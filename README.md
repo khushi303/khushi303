@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Next.js, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, GSAP, Typescript,Express,Node.js ,GitHub**
+- 💬 Ask me about **HTML, CSS, Javascript, React, GSAP, Typescript,Node.js ,GitHub**
 
-- 📫 How to reach me **deepakjhajhria4657@gmail.com**
+- 📫 How to reach me **maankhushi303@gmail.com**
 
 - 📄 Know about my experiences [..](..)
 
@@ -13,11 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepak_jhajhria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_jhajhria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/deepak-jhajhria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-jhajhria" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/deepakjhajhria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deepakjhajhria" height="30" width="40" /></a>
-<a href="https://instagram.com/_deepak_jhajhria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deepak_jhajhria" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepak-jhajhria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak-jhajhria" height="30" width="40" /></a>
+<a href="https://x.com/moonlightjhgg12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushi_maan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/khushimaan303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi_maan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kh_maan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushi_maan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/khushimaan303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushi_maan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
